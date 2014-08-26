@@ -1,0 +1,7 @@
+{
+    "name": "intersection-filter",
+    "version": "0.0.1",
+    "repo": "karlbohlmark/intersection-filter",
+    "dependencies": {},
+    "scripts": ["index.js"]
+}
